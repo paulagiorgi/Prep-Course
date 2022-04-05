@@ -236,7 +236,7 @@ function esVocal(letra){
   if (letra.lenght > 1) {
     return "dato incorrecto";
   } 
-    if (letra === "a") ||letra === "e") ||letra === "i") ||letra === "o") ||letra === "o") {
+    if (letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "o") {
       return "es vocal";
     } else {
       return "dato incorrecto";
